@@ -1,1 +1,14 @@
-
+[
+	{
+		"userId": "1234567890@s.whatsapp.net",
+		"reason": "Bully users",
+		"proof": "https://example.com/rdfgh.png",
+		"banTime": "2024-01-23T10:23:03+05:45"
+	},
+	{
+		"userId": "6550310000",
+		"reason": "Testing",
+		"proof": "https://telegra.ph/file/19c25853fd0f01c85fd20.jpg",
+		"banTime": "2024-03-10T12:10:05+05:45"
+	}
+]
